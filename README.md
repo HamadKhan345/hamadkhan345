@@ -1,6 +1,6 @@
 <h3 align="center">Machine Learning | Deep Learning | Learning & Building Intelligent Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamadkhan345&label=Profile%20views&color=0e75b6&style=flat" alt="hamadkhan345" /> </p>
+</br>
 
 - 🔭 I’m currently working on **ML&DL**
 
